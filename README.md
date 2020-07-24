@@ -1,5 +1,5 @@
 # LearnOptimizationWithJulia
-I am new to Julia, this is some note for me to get familiar with Julia. I plan on uploading two part of the code. First part is algorithm, most of the code will be modify from book:optimization for algorithms. Second part is an application in geophysics, I shall use interior point method and the data from Stixrude & Lithgow-Bertelloni (2011) to calculate phase equilibria.
+I am new to Julia, this is some note for me to get familiar with Julia. I plan on uploading two part of the code. First part is algorithm, most of the code will be modify from book:optimization for algorithms. Second part is an application in geophysics, I use interior point method and the data from Stixrude & Lithgow-Bertelloni (2011) to calculate phase equilibria.
 
 
 Refs:
